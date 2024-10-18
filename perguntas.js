@@ -6,18 +6,18 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual o maior país da Terra',
+    'É o Matheus'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Corrupção',
+    'Quem é a alma mais honesta do Brasil',
+    'Luíz inácio Lula da Silva'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI(RAI)'
+    'Política',
+    'Qual ministro do STF sofre de Impeachtment',
+    'Alexandre de Moraes'
 )
